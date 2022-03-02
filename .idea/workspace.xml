@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea23eaed-d5b8-4ad4-b172-baf12eeab75c" name="Default Changelist" comment="" />
+    <list default="true" id="ea23eaed-d5b8-4ad4-b172-baf12eeab75c" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/three/one/二分查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/three/two/有序数组的平方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/three/two/轮转数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentyfive/全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentyfour/分式化简.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentyfour/球会落何处.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentyseven/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentyseven/最优除法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wjc/lc/twentytwo/two/twentythree/重建二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +31,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -47,6 +61,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XqA1kyl45toZPyQ05ifcEqhVjV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
@@ -107,103 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentyseven.Pow" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentyseven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PushDominoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentyone.PushDominoes" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentyone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.one.three.SearchInsertPosition" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twentytwo.one.three.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentyone.twelve.twentyeight.SortString" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twentyone.twelve.twentyeight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.nineteen.找到所有数组中消失的数字" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.two.nineteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="车的可用捕获量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentysix.车的可用捕获量" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentysix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="不同的二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentyfour.不同的二叉搜索树" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentyfour.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="不同路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.six.four.不同路径" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.six.four.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的中序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.fifteen.二叉树的中序遍历" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.tree.fifteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,6 +163,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentysix.对称二叉树" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentysix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.sixteen.反转链表" />
       <module name="leetcode" />
@@ -237,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="相交链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentone.相交链表" />
+    <configuration name="最优除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentyseven.最优除法" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentone.*" />
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentyseven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="乘积最大子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.five.eight.乘积最大子数组" />
+    <configuration name="相交链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentone.相交链表" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.five.eight.*" />
+          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +254,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentone.买卖股票的最佳时机" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.seventeen.组合总和" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wjc.lc.twenty.tree.seventeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.three.one.二分查找" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.three.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,19 +319,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="对称二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentysix.对称二叉树" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentysix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="家劫舍" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.four.家劫舍" />
       <module name="leetcode" />
@@ -373,6 +338,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wjc.lc.twenty.two.sixteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩形重叠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.eighteen.矩形重叠" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.tree.eighteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.nineteen.找到所有数组中消失的数字" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.two.nineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,19 +410,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.twentone.买卖股票的最佳时机" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.two.twentone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.fifity.汉明距离" />
       <module name="leetcode" />
@@ -445,12 +423,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="三维形体的表面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentyfive.三维形体的表面积" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentyfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="多数元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.seventeen.多数元素" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wjc.lc.twenty.two.seventeen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentythree.重建二叉树" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentythree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,12 +501,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="矩形重叠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.eighteen.矩形重叠" />
+    <configuration name="车的可用捕获量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentysix.车的可用捕获量" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.tree.eighteen.*" />
+          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentysix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,6 +520,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentythree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分式化简" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentyfour.分式化简" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentyfour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,12 +566,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="把二叉搜索树转换为累加树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.nineteen.把二叉搜索树转换为累加树" />
+    <configuration name="乘积最大子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.five.eight.乘积最大子数组" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.two.nineteen.*" />
+          <option name="PATTERN" value="com.wjc.lc.twenty.five.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,12 +579,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="三维形体的表面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentyfive.三维形体的表面积" />
+    <configuration name="把二叉搜索树转换为累加树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.two.nineteen.把二叉搜索树转换为累加树" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentyfive.*" />
+          <option name="PATTERN" value="com.wjc.lc.twenty.two.nineteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -588,8 +605,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="全排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twentytwo.two.twentyfive.全排列" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twentytwo.two.twentyfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="不同的二叉搜索树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.twentyfour.不同的二叉搜索树" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.tree.twentyfour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="不同路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.six.four.不同路径" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.six.four.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的中序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjc.lc.twenty.tree.fifteen.二叉树的中序遍历" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjc.lc.twenty.tree.fifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Pow" />
         <item itemvalue="应用程序.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="应用程序.PushDominoes" />
       </list>
@@ -673,12 +743,39 @@
       <workItem from="1640864676623" duration="7580000" />
       <workItem from="1641212234969" duration="5199000" />
       <workItem from="1645455330098" duration="3134000" />
-      <workItem from="1645545646653" duration="1304000" />
+      <workItem from="1645545646653" duration="3176000" />
+      <workItem from="1645629167826" duration="2904000" />
+      <workItem from="1645718028727" duration="3197000" />
+      <workItem from="1645796573151" duration="4856000" />
+      <workItem from="1645969183805" duration="4606000" />
+      <workItem from="1646151344209" duration="1841000" />
+      <workItem from="1646231584321" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$LineError.ic" NAME="LineError Coverage Results" MODIFIED="1640358428996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
